@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdalkader Mokahal
 
-<!--
-**amokahal/amokahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Network & Cybersecurity Specialist | Ethical Hacking | Python Automation | Linux
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+Focused on cybersecurity operations, network security, penetration testing and automation development.
+
+Passionate about building practical offensive security labs, Linux-based workflows and security tools.
+
+---
+
+## ⚡ Technical Skills
+
+- Network Security
+- Ethical Hacking
+- Penetration Testing
+- Python Automation
+- Linux Administration
+- OSINT Investigation
+- Wireshark
+- Nmap
+- Metasploit
+
+---
+
+## 🚀 Current Focus
+
+Building security scripts, network analysis tools and offensive testing environments.
